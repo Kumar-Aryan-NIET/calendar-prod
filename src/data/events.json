@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "Daily Standup",
+    "date": "2024-06-01",
+    "startTime": "00:00",
+    "endTime": "01:30",
+    "color": "#f6be23"
+  },
+  {
+    "id": "2",
+    "title": "Weekly catchup",
+    "date": "2024-06-01",
+    "startTime": "04:30",
+    "endTime": "07:30",
+    "color": "#f6501e"
+  }
+]
